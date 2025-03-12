@@ -1,3 +1,5 @@
+LOCAL
+
 # running
 
 En sport, le terme "running" désigne principalement la course à pied. C’est une activité physique où l’on court à un rythme plus ou moins rapide, généralement pour le plaisir, l’entraînement ou la compétition.
